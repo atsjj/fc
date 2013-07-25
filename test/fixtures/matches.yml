@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  start: 2013-07-25 16:10:00
+  duration: 2013-07-25 16:10:00
+  season_id: 
+  home_team_id: 
+  visiting_team_id: 
+
+two:
+  start: 2013-07-25 16:10:00
+  duration: 2013-07-25 16:10:00
+  season_id: 
+  home_team_id: 
+  visiting_team_id: 
